@@ -1,0 +1,4 @@
+npm install react-codemirror2 codemirror
+npm i codemirror@version5
+npm i codemirror react-codemirror2-react-17
+npm config set legacy-peer-deps true
